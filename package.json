@@ -1,0 +1,11 @@
+{
+  "name": "algo-dotnet",
+  "version": "1.0.0",
+  "description": "dotnet algorithm",
+  "main": "Program.cs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
